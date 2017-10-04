@@ -1,0 +1,49 @@
+.shelf {
+    color: #d8d8d8;
+    width: 400px;
+    height: 60px;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: #D34735;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color:#d8d8d8;
+}
+
+.homepage-container {
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-container {
+    background-color: #AB2A19;
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+    width: 50vw;
+    color: #d8d8d8;
+}
+
+.logo-container > h3 {
+    padding: 15px;
+}
+
+.image {
+    width: 70px;
+    height: 70px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: #AB2A19;
+    width: 100vw;
+}

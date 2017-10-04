@@ -1,0 +1,18 @@
+.centerBins{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 50vh;
+}
+.list{
+    background-color: #ED6B5A;
+    width: 300px;
+    height: 50px;
+    color: #d8d8d8;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
